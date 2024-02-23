@@ -37,3 +37,5 @@ my_iterator = MyRange(1, 5)
 # и это значение присвоить переменной num.
 for num in my_iterator:
     print(num)
+
+    
